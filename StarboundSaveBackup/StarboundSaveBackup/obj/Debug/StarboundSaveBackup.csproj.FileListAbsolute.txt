@@ -1,0 +1,6 @@
+D:\GitHub\StarboundSaveBackup\StarboundSaveBackup\bin\Debug\StarboundSaveBackup.exe.config
+D:\GitHub\StarboundSaveBackup\StarboundSaveBackup\bin\Debug\StarboundSaveBackup.exe
+D:\GitHub\StarboundSaveBackup\StarboundSaveBackup\bin\Debug\StarboundSaveBackup.pdb
+D:\GitHub\StarboundSaveBackup\StarboundSaveBackup\obj\Debug\StarboundSaveBackup.csprojResolveAssemblyReference.cache
+D:\GitHub\StarboundSaveBackup\StarboundSaveBackup\obj\Debug\StarboundSaveBackup.exe
+D:\GitHub\StarboundSaveBackup\StarboundSaveBackup\obj\Debug\StarboundSaveBackup.pdb
